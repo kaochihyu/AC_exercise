@@ -1,0 +1,18 @@
+h6 {
+  padding: 0;
+  margin: 0;
+}
+.card-body {
+  position: relative;
+}
+
+.btn-show-user {
+  position: absolute;
+  bottom: 15px;
+}
+
+.btn-add-favorite {
+  position: absolute;
+  bottom: 15px;
+  right: 30px;
+}
